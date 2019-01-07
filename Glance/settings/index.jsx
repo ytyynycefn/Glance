@@ -69,7 +69,7 @@ function mySettings(props) {
             {color: "#390263"},
             {color: "#1F618D"},
             {color: "#aa2c73"},
-            {color: "#117A65"}
+            {color: "#9400D3"}
           ]}
         />
     </Page>
